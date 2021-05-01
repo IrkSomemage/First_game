@@ -6,3 +6,4 @@ Un personaje que hace ataques cuerpo a cuerpo, golpeando diferentes enemigos que
 Puntos: 
 1.- Por matar enemigos
 2.- Por el tiempo vivo
+3.- Puntos en forma de circulo que aparecen al azar
